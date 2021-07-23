@@ -1,9 +1,7 @@
 @charset "UTF-8";
 /* =Base *//*************************************************************/
-  html {
-direction:rtl; }
-
   body {
+    direction:rtl;
     font-family: Vazir;  
     font-size: 100%;
     color: #012;
