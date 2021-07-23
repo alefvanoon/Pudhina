@@ -73,6 +73,7 @@ direction:rtl; }
     list-style-type: none; }
 
   .menu__entry {
+    float: left;
     display: inline-block;
     margin-right: 35px; }
     .menu__entry:last-child {
