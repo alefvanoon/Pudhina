@@ -72,8 +72,7 @@
 
   .menu__entry {
     float: right;
-    display: inline-block;
-    margin-right: 35px; }
+    display: inline-block; }
     .menu__entry:last-child {
       margin-right: 35px; }
 
