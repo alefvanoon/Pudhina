@@ -71,11 +71,11 @@
     list-style-type: none; }
 
   .menu__entry {
-    float: left;
+    float: right;
     display: inline-block;
     margin-right: 35px; }
     .menu__entry:last-child {
-      margin-right: 0px; }
+      margin-right: 35px; }
 
   .menu__entry a {
     font-weight: 400; }
