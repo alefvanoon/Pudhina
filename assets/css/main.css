@@ -59,6 +59,7 @@ direction:rtl; }
     float: left; }
 
   .logo {
+    float: right;
     font-size: 300%;
     font-weight: 700;
     color: #16a085;
@@ -82,7 +83,7 @@ direction:rtl; }
     font-weight: 400; }
 
   .social-links {
-    float: right;
+    float: left;
     font-size: 150%;
     color: #828282;
     list-style-type: none; }
